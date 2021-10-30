@@ -50,11 +50,11 @@ Email - vladstefandieaconu@gmail.com
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[forks-shield]: https://img.shields.io/github/forks/VladStefanDieaconu/APD.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/VladStefanDieaconu/APD.svg
 [forks-url]: https://github.com/VladStefanDieaconu/APD/network/members
-[stars-shield]: https://img.shields.io/github/stars/VladStefanDieaconu/APD.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/VladStefanDieaconu/APD.svg
 [stars-url]: https://github.com/VladStefanDieaconu/APD/stargazers
-[license-shield]: https://img.shields.io/github/license/VladStefanDieaconu/APD.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/VladStefanDieaconu/APD.svg
 [license-url]: https://github.com/VladStefanDieaconu/APD/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/VladStefanDieaconu
