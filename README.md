@@ -20,7 +20,7 @@
 
 
 <!-- PROJECT DESCRIPTION -->
-## Description
+## Description :fire:
 
 Acest repository contine codul scris de mine in timpul facultatii ca parte a materiei de Algoritmi Paraleli si Distribuiti.
 Open CourseWare-ul materiei poate fi gasit aici: https://ocw.cs.pub.ro/courses/apd
@@ -33,18 +33,18 @@ Este una dintre materiile mele preferate din facultate si foarte folositoare in 
 * Programarea distribuita folosind MPI
 * Topologii si alegerea liderului. :smile:
 
-### Built With
+### Built With :point_down:
 Dezvoltat utilizand:
 * [pThreads](https://www.cs.cmu.edu/afs/cs/academic/class/15492-f07/www/pthreads.html)
 * [MPI](https://www.open-mpi.org/)
 
 <!-- LICENSE -->
-## License
+## License :facepunch:
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <!-- CONTACT -->
-## Contact
+## Contact :hand:
 Email - vladstefandieaconu@gmail.com
 <p align="right">(<a href="#top">back to top</a>)</p>
 
